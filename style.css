@@ -1,0 +1,42 @@
+html,body{
+    height: 100%;
+    background-color: #cbdaf3 !important;
+}
+.log-container{
+    display: flex;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+    color:#2648d2;
+    font-size: large;
+    
+}
+
+.login-form{
+    width: 450px;
+    padding: 30px;
+    background-color: #b0c4e8 !important;
+    border: #1642ba;
+}
+
+input[type="text"],input[type="email"],input[type="password"],input[type="number"]{
+    background-color: rgb(196, 212, 242) !important;
+}
+#sub{
+    color: white;
+    text-decoration: none;
+}
+.content{
+   height: 90%;
+   padding-top: 10%;
+   color: azure;
+}
+
+.pelanggan-form{
+    width: 600px;
+    height: 580px;
+    padding: 30px;
+    background-color: #b0c4e8 !important;
+    border: #1642ba;
+}
+
